@@ -8,6 +8,7 @@ import math
 
 # root_dir = 'E:\\Material\\CT_Scan\\20230215_born_h4\\S0000000001'
 root_dir = 'C:\\Users\\sakir\\Desktop\\20241006_CTScan\\20230215_born_h4\\S0000000001'
+# root_dir = 'D:\\Downloads\\Series 003' 
 
 op_table = op('table_slice')
 
